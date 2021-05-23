@@ -108,3 +108,4 @@ Here are some helpful links:
 * [Gluon documentation website](https://docs.gluonhq.com)
 * Gluon on GitHub: [Client Maven Plugin](https://github.com/gluonhq/client-maven-plugin) and [Client Gradle Plugin](https://github.com/gluonhq/client-gradle-plugin)
 * [GitHub: Building and testing Java with Maven](https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-maven)
+* [介绍文章](https://webtechie.be/post/2020-11-24-javafx-gluon-mobile-github-actions/)
